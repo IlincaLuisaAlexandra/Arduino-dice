@@ -1,1 +1,1 @@
-# Arduino-dice
+This project was developed with the aid of the Arduino microcontroller and other necessary components. I chose to create a dice because I wanted to transform something ordinary and simple into something more intriguing and visually appealing using technology.
